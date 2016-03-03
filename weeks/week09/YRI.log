@@ -1,0 +1,40 @@
+
+@----------------------------------------------------------@
+|        PLINK!       |     v1.07      |   10/Aug/2009     |
+|----------------------------------------------------------|
+|  (C) 2009 Shaun Purcell, GNU General Public License, v2  |
+|----------------------------------------------------------|
+|  For documentation, citation & bug-report instructions:  |
+|        http://pngu.mgh.harvard.edu/purcell/plink/        |
+@----------------------------------------------------------@
+
+Skipping web check... [ --noweb ] 
+Writing this text to log file [ YRI.log ]
+Analysis started: Tue Mar  1 10:42:56 2016
+
+Options in effect:
+	--noweb
+	--bfile plink_hapmap_CEU_YRI_ASW_CHB
+	--keep hapmap-YRI.txt
+	--freq
+	--out YRI
+
+Reading map (extended format) from [ plink_hapmap_CEU_YRI_ASW_CHB.bim ] 
+151046 markers to be included from [ plink_hapmap_CEU_YRI_ASW_CHB.bim ]
+Reading pedigree information from [ plink_hapmap_CEU_YRI_ASW_CHB.fam ] 
+449 individuals read from [ plink_hapmap_CEU_YRI_ASW_CHB.fam ] 
+0 individuals with nonmissing phenotypes
+Assuming a disease phenotype (1=unaff, 2=aff, 0=miss)
+Missing phenotype value is also -9
+0 cases, 0 controls and 449 missing
+204 males, 245 females, and 0 of unspecified sex
+Reading genotype bitfile from [ plink_hapmap_CEU_YRI_ASW_CHB.bed ] 
+Detected that binary PED file is v1.00 SNP-major mode
+Reading individuals to keep [ hapmap-YRI.txt ] ... 147 read
+302 individuals removed with --keep option
+Before frequency and genotyping pruning, there are 151046 SNPs
+147 founders and 0 non-founders found
+Writing allele frequencies (founders-only) to [ YRI.frq ] 
+
+Analysis finished: Tue Mar  1 10:42:59 2016
+
