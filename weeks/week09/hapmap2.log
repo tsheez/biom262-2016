@@ -1,0 +1,22 @@
+
+@----------------------------------------------------------@
+|        PLINK!       |     v1.07      |   10/Aug/2009     |
+|----------------------------------------------------------|
+|  (C) 2009 Shaun Purcell, GNU General Public License, v2  |
+|----------------------------------------------------------|
+|  For documentation, citation & bug-report instructions:  |
+|        http://pngu.mgh.harvard.edu/purcell/plink/        |
+@----------------------------------------------------------@
+
+Skipping web check... [ --noweb ] 
+Writing this text to log file [ hapmap2.log ]
+Analysis started: Thu Mar  3 11:06:25 2016
+
+Options in effect:
+	--noweb
+	--file hapmap1
+	--make-bed
+	--out hapmap2
+
+
+ERROR: No file [ hapmap1.ped ] exists.
